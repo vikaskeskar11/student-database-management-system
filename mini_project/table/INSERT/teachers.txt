@@ -1,0 +1,7 @@
+11111,Ananthanarayana,V,S,IT,M,Professor and HOD
+10080,Biju,R,Mohan,IT,M,Assistant Professor
+10081,Dinesh,,Naik,IT,M,Assistant Professor
+10082,G,Ram Mohana,Reddy,IT,M,Professor
+10083,Geetha,,V,IT,F,Assistant Professor
+10084,Jaidhar,C,D,IT,M,Assistant Professor
+10085,Sowmya,Kamath,S,IT,F,Assistant Professor

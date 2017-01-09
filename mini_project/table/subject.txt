@@ -1,0 +1,611 @@
+AM200;Mechanics of Materials;CV;4;C
+AM216;Strength of Materials Lab;CV;2;C
+AM250;Mechanics of Fluids;CV;4;C
+AM300;W.C.S and Hydraulic Machines;CV;3;C
+AM316;Hydraulics Lab;CV;2;C
+AM350;Water Resources Engineering;CV;4;C
+CV200;Civil Engineering Materials;CV;3;C
+CV201;Elements of Surveying;CV;4;C
+CV202;Engineering Geology;CV;4;C
+CV216;Civil Engg. Materials Lab - I;CV;2;C
+CV217;Surveying Practice;CV;2;C
+CV250;Structural Analysis-I;CV;4;C
+CV251;Architecture, Construction and Town Planning;CV;3;C
+CV252;Structural Design-I;CV;4;C
+CV253;Soil Mechanics;CV;4;C
+CV266;Geology Lab;CV;2;C
+CV267;Soil Mechanics Lab;CV;2;C
+CV300;Structural Analysis-II;CV;4;C
+CV301;Highway and Traffic Engineering;CV;3;C
+CV316;Building Design And Drawing;CV;3;C
+CV350;Environmental Engineering;CV;4;C
+CV351;Structural Design-II;CV;3;C
+CV366;Environmental Engg. Lab;CV;2;C
+CV367;Civil Engineering Materials Lab–II;CV;2;C
+CV390;Professional Practice;CV;1;C
+CV400;Estimation Costing and Specifications;CV;4;C
+CV401;Bridge Engineering;CV;3;C
+CV417;Structural Design and Drawing;CV;3;C
+CV440;Practical Training;CV;2;C
+CV449;Major Project - I;CV;2;C
+CV499;Major Project – II;CV;8;C
+CV490;Seminar;CV;1;C
+CV321;Applied Soil Engineering;CV;3;E
+CV322;Concrete Technology;CV;3;E
+CV371;Railways, Tunnels, Harbours and Airports;CV;3;E
+CV372;Design of PSC Structures;CV;3;E
+CV385;Geoinformatics;CV;3;E
+CV386;Rock Mechanics;CV;3;E
+CV387;Applied Geology;CV;3;E
+CV388;Advanced Surveying;CV;4;E
+CV389;Advanced Structural Analysis;CV;3;E
+CV421;Transportation Project Planning and Evaluation;CV;3;E
+CV422;Advanced Design of Structures-I;CV;3;E
+CV423;Design of Foundations, Earth and Earth Retaining Structures;CV;3;E
+CV424;Advanced Environmental Engineering;CV;3;E
+CV425;Computer Aided Design and Applications in Civil Engineering;CV;4;E
+CV438;Structural Dynamics and Wind Engg.;CV;3;E
+CV471;Advanced Design of Structures – II;CV;4;E
+CV472;Ground Improvement Techniques;CV;3;E
+CV473;FEM Applications in Civil Engg;CV;3;E
+CV474;Elements of Earthquake Engg;CV;3;E
+CV475;Oil and Natural Gas Exploration;CV;3;E
+CV476;Disaster Management and Mitigation;CV;3;E
+CV485;Air Pollution and Noise Pollution;CV;3;E
+CV486;Environmental Impact Assessment;CV;3;E
+CV487;Construction and Project Management;CV;3;E
+AM371;Open Channel Flow and Sediment transport;CV;3;E
+AM372;Civil Engineering Systems;CV;3;E
+AM380;Mini Project – I;CV;2;E
+AM381;Mini Project – II;CV;2;E
+AM400;Geographic Information Systems;CV;3;E
+AM401;Satellite Digital Image Analysis;CV;3;E
+AM402;Principles of Geo-informatics;CV;3;E
+AM421;Design & Drawing of Hydraulic Structures;CV;4;E
+AM422;Fundamentals of Coastal Engg;CV;3;E
+AM423;Basics of Offshore Engg;CV;3;E
+AM424;Coastal Erosion and its Mitigation;CV;3;E
+AM435;Performance Appraisal of Large Projects;CV;3;E
+AM436;Disaster Management;CV;3;E
+AM437;Decision Making Under Risk and Uncertainty;CV;3;E
+AM438;Rural Infrastructure Development;CV;3;E
+AM439;Inverse Modelling;CV;3;E
+AM445;Fundamentals of Finite Element Method;CV;3;E
+AM455;Engineering Optimization;CV;3;E
+AM473;Water Resources Excess Management;CV;3;E
+AM474;Computational Methods in Hydrology;CV;3;E
+AM475;Ground Water Engg;CV;3;E
+AM400;Geographic Information Systems;CV;3;E
+AM401;Satellite Digital Image Analysis;CV;3;E
+AM402;Principles of Geo-informatics;CV;3;E
+AM403;Geographic Positioning System;CV;3;E
+AM372;Civil Engineering Systems;CV;3;E
+AM435;Performance Appraisal of Large Projects;CV;3;E
+AM436;Disaster Management;CV;3;E
+AM437;Decision Making Under Risk and Uncertainty;CV;3;E
+AM438;Rural Infrastructure Development;CV;3;E
+AM439;Inverse Modelling;CV;3;E
+AM445;Fundamentals of Finite Element Method;CV;3;E
+AM455;Engineering Optimization;CV;3;E
+CV268;Advanced Mining Geology;CV;3;E
+CV385;Geo-informatics;CV;3;E
+CV386;Rock Mechanics;CV;3;E
+CV387;Applied Geology;CV;3;E
+CV388;Advanced Surveying;CV;4;E
+CV475;Oil and Natural Gas Exploration;CV;3;E
+CV476;Disaster Management and Mitigation;CV;3;E
+CV485;Air Pollution and Noise Pollution;CV;3;E
+CV486;Environmental Impact Assessment;CV;3;E
+CV487;Construction and Project Management;CV;3;E
+CH200;Process Calculations;CE;4;C
+CH201;Momentum Transfer;CE;4;C
+CH202;Particulate Technology;CE;4;C
+CH250;Chemical Engg. Thermodynamics-I;CE;4;C
+CH251;Heat Transfer;CE;4;C
+CH252;Mass Transfer – I;CE;4;C
+CH253;Chemical Reaction Engineering – I;CE;4;C
+CH254;Fluid and Fluid Particle Systems Lab;CE;2;C
+CH300;Chemical Engg. Thermodynamics-II;CE;4;C
+CH301;Chemical Reaction Engineering – II;CE;4;C
+CH302;Mass Transfer – II;CE;4;C
+CH303;Heat Transfer Operations Lab.;CE;2;C
+CH350;Transport Phenomena;CE;4;C
+CH351;Process Dynamics and Control;CE;4;C
+CH352;Simultaneous Heat and Mass Transfer;CE;3;C
+CH353;Biochemical Engineering;CE;4;C
+CH354;Mass Transfer Operations Lab;CE;2;C
+CH400;Chemical Process Industries;CE;3;C
+CH401;Pollution Control and Safety in Process Industries;CE;3;C
+CH402;Process Design of Chemical Equipments;CE;4;C
+CH403;C.R.E. and Process Control Lab;CE;2;C
+CH440;Practical Training / Educational Tour;CE;2;C
+CH490;Seminar;CE;2;C
+CH449;Major Project - I;CE;2;C
+CH499;Major Project – II;CE;8;C
+CH362;Separation Processes;CE;4;E
+CH411;Computer Aided Process Design;CE;4;E
+CH412;Bioreactor Design;CE;4;E
+CH413;Fertilizer Technology;CE;3;E
+CH414;Fermentation Technology;CE;3;E
+CH415;Petroleum Engineering;CE;3;E
+CH416;Mechanical Design of Process Vessels;CE;3;E
+CH461;Process Modelling and Simulation;CE;4;E
+CH462;Chemical Process Optimization;CE;4;E
+CH463;EIA and EMP;CE;3;E
+CH464;Risk and Safety Management in Process Industries;CE;3;E
+CH465;Air Pollution Control and Design of Equipments;CE;3;E
+CH466;Solid Waste Management;CE;4;E
+CH261;Energy Technology;CE;3;E
+CH311;Process Instrumentation;CE;3;E
+CH415;Petroleum Engineering;CE;3;E
+CH465;Air Pollution Control and Design of Equipments;CE;3;E
+CO200;Information Systems;CO;3;C
+CO201;Computer Organization and Architecture;CO;3;C
+CO202;Design of Digital Systems;CO;3;C
+CO203;Unix Programming;CO;4;C
+CO204;Data Structures and Algorithms;CO;4;C
+CO205;Data Structures Lab;CO;2;C
+CO206;Digital Systems Lab;CO;2;C
+CO250;Microprocessor and Interfacing;CO;4;C
+CO251;Object Technology;CO;3;C
+CO252;Principles of Data Communication;CO;3;C
+CO253;Computer Graphics;CO;3;C
+CO254;Theory of Computation;CO;3;C
+CO255;Microprocessor Lab;CO;2;C
+CO256;Computer Graphics Lab;CO;2;C
+CO300;Operating Systems;CO;3;C
+CO301;Database Systems;CO;4;C
+CO302;Systems Programming;CO;3;C
+CO303;Computer Networks;CO;3;C
+CO304;Operating Systems Lab;CO;2;C
+CO305;Database Systems Lab;CO;2;C
+CO350;Compiler Design;CO;3;C
+CO351;Software Engineering;CO;3;C
+CO352;Distributed Computing Systems;CO;3;C
+CO353;Design and Analysis of Algorithms;CO;3;C
+CO354;Compilers Lab;CO;2;C
+CO355;Software Lab;CO;2;C
+CO356;Networks Lab;CO;2;C
+CO400;Number Theory and Cryptography;CO;3;C
+CO440;Practical Training/Educational Tour;CO;1;C
+CO450;Information Security;CO;3;C
+CO490;Seminar;CO;1;C
+CO449;Major Project - I;CO;4;C
+CO499;Major Project – II;CO;6;C
+CO420;Internet Technology and Applications;CO;3;E
+CO421;Artificial Intelligence and Expert Systems;CO;3;E
+CO422;Multimedia and Virtual Reality;CO;3;E
+CO423;ERP and Supply Chain Management;CO;3;E
+CO469;Software Project Management;CO;3;E
+CO470;Web Engineering;CO;3;E
+CO471;Software Architecture;CO;3;E
+CO401;Real Time Systems;CO;3;E
+CO402;Fault Tolerant Computing;CO;3;E
+CO403;Advanced Microprocessors;CO;3;E
+CO404;Parallel Algorithms;CO;3;E
+CO405;Distributed Object Computing;CO;3;E
+CO406;Model Driven Computing;CO;3;E
+CO409;Mobile Computing;CO;3;E
+CO410;Protocol Engineering;CO;3;E
+CO411;Network Processors & Network Design;CO;3;E
+CO412;Advanced Topics in Networks and Distributed Computing;CO;3;E
+CO413;Network Management;CO;3;E
+CO414;Grid Computing;CO;3;E
+CO415;Requirements Engineering;CO;3;E
+CO417;Applied Algorithms;CO;3;E
+CO418;Advanced Data Structures and Algorithms;CO;3;E
+CO419;Distributed Algorithms;CO;3;E
+CO451;Advanced Concepts in Theoretical Computer Science;CO;3;E
+CO452;Formal Method in Computing;CO;3;E
+CO453;Combinatorics;CO;3;E
+CO454;Performance Modelling and Analysis;CO;3;E
+CO455;Optimization Techniques in Computing;CO;3;E
+CO456;Modern Computer Algebra;CO;3;E
+CO457;Bioinformatics;CO;3;E
+CO458;Advanced Database Systems;CO;3;E
+CO459;Data Warehousing and Data Mining;CO;3;E
+CO462;Computer Vision;CO;3;E
+CO463;Machine Intelligence;CO;3;E
+CO464;Algorithmic Graph Theory;CO;3;E
+CO465;Computational Complexity;CO;3;E
+CO467;Software Quality Assurance;CO;3;E
+CO468;Software Testing;CO;3;E
+EC210;Digital Electronics & Computer Architecture;EC;4;C
+EC211;Linear Systems and Signals;EC;4;C
+EC212;Electromagnetic Waves;EC;4;C
+EC213;Mathematics for E&C Engg.;EC;4;C
+EC215;Digital Electronics Lab;EC;2;C
+EC216;Linear Systems and Signals Lab;EC;2;C
+EC260;Analog Electronics;EC;4;C
+EC261;Microprocessors;EC;4;C
+EC262;Analog Communication;EC;4;C
+EC263;Linear Control Systems;EC;4;C
+EC264;Analog Electronics Lab;EC;2;C
+EC265;Microprocessor Lab;EC;2;C
+EC290;Seminar;EC;1;C
+EC310;Linear Integrated Circuits;EC;4;C
+EC311;Antennas and Propagation;EC;4;C
+EC312;Digital Communications;EC;4;C
+EC313;Digital System Design;EC;4;C
+EC314;Linear Integrated Circuits Lab;EC;2;C
+EC315;Basic Communications Lab;EC;2;C
+EC316;Digital System Design Lab;EC;2;C
+EC360;Microwave Engineering & Optical Communication;EC;4;C
+EC361;VLSI Design;EC;4;C
+EC362;Digital Signal Processing;EC;4;C
+EC363;Communication Networks;EC;4;C
+EC364;VLSI Design Lab;EC;2;C
+EC365;Digital Signal Processing Lab;EC;2;C
+EC366;Advanced Communication Lab;EC;2;C
+EC440;Practical Training;EC;1;C
+EC449;Major Project - I;EC;4;C
+EC400;Power Electronics;EC;3;E
+EC401;Opto-Electronics;EC;3;E
+EC402;MOS Device modeling;EC;3;E
+EC403;Active Filters and Data Converters;EC;3;E
+EC404;VLSI Systems and Architecture;EC;3;E
+EC405;Logic Synthesis & Techniques;EC;3;E
+EC406;Electronic Instrumentation;EC;3;E
+EC407;Biomedical Instrumentation;EC;3;E
+EC408;DSP Systems and Architecture;EC;3;E
+EC409;Advanced Digital Signal Processing;EC;3;E
+EC410;Speech and Image Processing;EC;3;E
+EC411;Embedded Systems;EC;3;E
+EC412;Operating Systems;EC;3;E
+EC413;TV Engineering;EC;3;E
+EC414;Satellite Communication;EC;3;E
+EC415;Fiber Optic Technology & Applications;EC;3;E
+EC416;Radar & Electronic Navigation Systems;EC;3;E
+EC417;Wireless Mobile Communication;EC;3;E
+EC418;Spread Spectrum Communications;EC;3;E
+EC419;Information Theory and Coding;EC;3;E
+EC420;Error Control Coding;EC;3;E
+EC421;Electromagnetic Interference & Compatibility;EC;3;E
+EC422;Adhoc and Sensor Networks;EC;3;E
+EC423;Advanced Topics in Communication Engg;EC;3;E
+EC424;Soft Computing;EC;3;E
+EC406;Electronic Instrumentation;EC;3;E
+EC407;Biomedical Instrumentation;EC;3;E
+EC411;Embedded Systems;EC;3;E
+EC424;Soft Computing;EC;3;E
+EC425;Digital Systems & Computer Organisation;EC;3;E
+EC426;Principles of Communication Engg;EC;3;E
+EC427;Computer Networks;EC;3;E
+EC428;Applications of Signal Processing;EC;3;E
+EE200;Circuit Theory;EE;4;C
+EE207;Electromagnetic Theory;EE;4;C
+EE212;Transformers and Induction Machines;EE;4;C
+EE215;Signals and Systems;EE;4;C
+EE223;Electrical Measurements and Measuring Instruments;EE;4;C
+EE225;Linear Integrated Circuits;EE;4;C
+EE230;Transformers and Induction Machines Lab;EE;2;C
+EE241;Electrical Measurements Lab;EE;2;C
+EE257;Synchronous Machines;EE;4;C
+EE265;Elements of Power System Engineering;EE;4;C
+EE275;Digital Electronic Circuits;EE;4;C
+EE283;Synchronous Machines Lab;EE;2;C
+EE292;Analog and Digital Electronics Lab;EE;2;C
+EE309;Power Electronics;EE;4;C
+EE313;Digital Signal Processing;EE;4;C
+EE326;Linear and Digital Control Theory;EE;4;C
+EE350;Power System Analysis;EE;4;C
+EE360;Microprocessors;EE;4;C
+EE390;Professional Practices;EE;1;C
+EE440;Practical Training/Educational Tour;EE;2;C
+EE490;Seminar;EE;1;C
+EE449;Major Project – I;EE;5;C
+EE499;Major Project - II;EE;5;C
+EE229;Polyphase Systems and Component –Transformations;EE;4;E
+EE253;Commutator Machines;EE;4;E
+EE255;Introduction to Algorithms and Data Structures;EE;4;E
+EE260;Digital Computer Organization and Architecture;EE;4;E
+EE281;Commutator Machines Lab;EE;2;E
+EE298;Elements of Analog and Digital Communication;EE;4;E
+EE303;Distribution Systems Planning and Control;EE;4;E
+EE308;Network Synthesis;EE;4;E
+EE311;Digital System Design;EE;4;E
+EE312;Power System Harmonics;EE;4;E
+EE319;Neural Networks and Applications;EE;3;E
+EE321;Linear and Nonlinear Systems;EE;4;E
+EE324;Electronic Measurements and Instrumentation;EE;4;E
+EE329;Traveling Waves on Transmission Systems;EE;4;E
+EE331;Distribution Systems Lab;EE;2;E
+EE334;Power Electronics Lab;EE;2;E
+EE335;Digital System Design Lab;EE;2;E
+EE337;Power System Harmonics Lab;EE;2;E
+EE342;Electronic Measurements Lab;EE;2;E
+EE345;Miniproject - 1;EE;2;E
+EE346;Miniproject - 2;EE;2;E
+EE359;Energy Auditing;EE;4;E
+EE361;Power System Communications;EE;4;E
+EE362;Optimal Operation of Power Systems;EE;4;E
+EE363;Advanced Digital Signal Processing;EE;3;E
+EE366;Special Machines and Drives;EE;4;E
+EE369;Embedded System Design;EE;4;E
+EE371;Power Electronic Applications to Power Systems;EE;4;E
+EE373;Electric Power Stations;EE;4;E
+EE374;Electric Energy Systems;EE;3;E
+EE376;Advanced Control Systems;EE;3;E
+EE377;Modeling and Simulation Techniques for Dynamic Systems;EE;4;E
+EE378;Shell Scripting with Bash;EE;4;E
+EE379;Incremental Motion Control;EE;4;E
+EE382;Virtual Instrumentation Lab;EE;2;E
+EE384;Energy Auditing Lab;EE;2;E
+EE385;Microprocessors Lab;EE;2;E
+EE386;Digital Signal Processing Lab;EE;2;E
+EE387;Advanced Digital Signal Processing Lab;EE;2;E
+EE389;Embedded System Design Lab;EE;2;E
+EE392;Power System Operation Lab;EE;2;E
+EE393;Dynamic System Simulation Lab;EE;2;E
+EE395;Miniproject - 3;EE;2;E
+EE396;Miniproject - 4;EE;2;E
+EE402;HVDC Transmission;EE;4;E
+EE404;Soft Computing;EE;3;E
+EE406;Electromagnetic Compatibility;EE;4;E
+EE408;Solid-State Drives;EE;4;E
+EE410;Power System Protection;EE;4;E
+EE411;Operation of Restructured Power Systems under Deregulation;EE;4;E
+EE412;Random Signal Processing;EE;4;E
+EE414;Non-Conventional Energy Systems;EE;3;E
+EE418;Advanced Power Electronics;EE;4;E
+EE420;Power System Dynamics;EE;4;E
+EE422;Switchgear and Protection;EE;4;E
+EE427;Computer Networks;EE;3;E
+EE428;The ARM Core: Architecture and Programming;EE;4;E
+EE439;Advanced Power Electronics Lab;EE;2;E
+EE445;Power System Simulation Lab;EE;2;E
+EE454;Flexible AC Transmission Systems;EE;4;E
+EE456;High-Voltage Engineering;EE;4;E
+EE458;Photovoltaics and Applications;EE;4;E
+EE464;Power Generation and Economics;EE;4;E
+EE466;Utilization of Electrical Energy;EE;3;E
+EE468;Advanced Electric Drives;EE;4;E
+EE470;Computational Technique for large system analysis;EE;3;E
+EE472;Insulation and Testing Engineering;EE;4;E
+EE476;Optimisation Techniques;EE;3;E
+EE478;An Introduction to the Intel IA-32 Architecture;EE;4;E
+EE489;Advanced Electric Drives Lab;EE;2;E
+EE491;Insulation and Testing Engineering Lab;EE;2;E
+EE319;Neural Networks and Applications;EE;3;E
+EE363;Advanced Digital Signal Processing;EE;3;E
+EE374;Electric Energy Systems;EE;3;E
+EE376;Advanced Control Systems;EE;3;E
+EE404;Soft Computing;EE;3;E
+EE414;Non-Conventional Energy Systems;EE;3;E
+EE427;Computer Networks;EE;3;E
+EE466;Utilization of Electrical Energy;EE;3;E
+EE470;Computational Technique for large system analysis;EE;3;E
+EE476;Optimisation Techniques;EE;3;E
+IT200;Data Structures and Algorithms;IT;4;C
+IT201;Fundamentals of Signal Processing;IT;4;C
+IT203;Digital Design and Computer Organization;IT;4;C
+IT204;Unix Programming and Practice;IT;4;C
+IT205;Data Structures and Algorithms Lab;IT;2;C
+IT206;Digital Design Lab;IT;2;C
+IT250;Microprocessors and Interfacing;IT;4;C
+IT251;Computer Graphics;IT;3;C
+IT252;Computer Communication and Networking;IT;4;C
+IT253;Design and Analysis of Algorithms;IT;4;C
+IT254;Microprocessors Lab;IT;2;C
+IT255;Computer Graphics Mini Project;IT;3;C
+IT256;Design and Analysis of Algorithms Lab;IT;2;C
+IT300;Operating Systems;IT;4;C
+IT301;Database Systems;IT;3;C
+IT302;Software Engineering;IT;4;C
+IT303;Automata and Compiler Design;IT;4;C
+IT304;Operating Systems Lab;IT;2;C
+IT305;Database Mini Project;IT;3;C
+IT306;Computer Networks Lab;IT;2;C
+IT350;Internet Technologies and Applications;IT;4;C
+IT351;Human Computer Interaction;IT;4;C
+IT352;Information Assurance and Security;IT;4;C
+IT353;Software Engineering Mini Project;IT;3;C
+IT354;Internet Technologies and Applications Lab;IT;2;C
+IT355;Human Computer Interaction Lab;IT;2;C
+IT390;Professional Practice/Seminar;IT;2;C
+IT440;Practical Training/Minor Project;IT;2;C
+IT449;Major Project –I;IT;4;C
+IT499;Major Project – II;IT;6;C
+IT207;Information Systems;IT;3;E
+IT208;Object Oriented Programming;IT;3;E
+IT257;Object Oriented Systems;IT;3;E
+IT357;Advanced Database Systems;IT;3;E
+IT358;Information Retrieval;IT;3;E
+IT359;Advanced Computer Networks;IT;3;E
+IT360;Soft Computing;IT;3;E
+IT361;Simulation and Modeling;IT;3;E
+IT362;Perceptual Audio Coding;IT;3;E
+IT363;Informatics and Telematics;IT;3;E
+IT364;Digital Image Processing;IT;3;E
+IT365;Fuzzy System Models;IT;3;E
+IT366;Parallel Programming;IT;3;E
+IT367;E-Commerce;IT;3;E
+IT401;Distributed Computing Systems;IT;3;E
+IT402;Embedded Systems;IT;3;E
+IT403;Performance Modeling;IT;3;E
+IT404;Bioinformatics;IT;3;E
+IT405;Pattern Recognition;IT;3;E
+IT406;Enterprise Resource Planning & Systems;IT;3;E
+IT407;Multimedia & Virtual Reality;IT;3;E
+IT408;System Integration;IT;3;E
+IT451;Mobile Computing;IT;3;E
+IT452;Middleware Technologies;IT;3;E
+IT453;Knowledge Management;IT;3;E
+IT454;Transaction Processing;IT;3;E
+IT455;Artificial Intelligence;IT;3;E
+IT456;Data Warehousing & Data Mining;IT;3;E
+IT457;Software Quality Assurance;IT;3;E
+IT458;Genetic Algorithms;IT;3;E
+IT459;Computer vision;IT;3;E
+IT460;Rich Internet Applications;IT;3;E
+IT461;Artificial Neural Networks;IT;3;E
+IT462;Cloud Computing;IT;3;E
+IT463;Software Architecture;IT;3;E
+IT464;Advanced Computer Architecture;IT;3;E
+IT465;Mobile Adhoc Networks;IT;3;E
+IT466;Web Services;IT;3;E
+IT361;Simulation and Modeling;IT;3;E
+IT365;Fuzzy System Models;IT;3;E
+IT406;Enterprise Resource Planning & Systems;IT;3;E
+IT455;Artificial Intelligence;IT;3;E
+IT461;Artificial Neural Networks;IT;3;E
+ME201;Basic Engineering Thermodynamics;ME;4;C
+ME417;Pressure Vessel Design;ME;3;E
+ME418;Fracture Mechanics;ME;3;E
+ME202;Fluid Mechanics and Machinery;ME;4;C 
+ME419;Refrigeration Technology;ME;3;E
+ME203;Mechanics of Machines;ME;4;C 
+ME420;Applied Finite Element Method;ME;3;E
+ME204;Basic Manufacturing Processes;ME;4;C
+ME421;Composite Materials;ME;3;E
+ME205;Material Science & Metallurgy;ME;3;C
+ME422;Propulsion;ME;3;E
+ME206;Engineering Drawing;ME;3;C
+ME423;Mechanical Vibration & Acoustics;ME;3;E
+ME207;Workshop Practice;ME;1;C
+ME424;Theory of Plasticity;ME;3;E
+ME250;Applied Thermodynamics;ME;4;C
+ME425;Automation Systems;ME;3;E
+ME251;Analysis and Design of Machine Components;ME;4;C
+ME430;Nuclear Energy;ME;3;E
+ME432;Industrial Tribology;ME;3;E
+ME252;Computer Aided Engineering;ME;4;C
+ME433;Engineering Acoustics;ME;3;E
+ME253;Manufacturing Technology;ME;3;C
+ME452;Facilities Planning;ME;3;E
+ME254;Metrology and Quality Control;ME;4;C
+ME453;Project Management;ME;3;E
+ME255;Machine Drawing;ME;3;C
+ME454;Applied Computational Methods in Mechanical Sciences;ME;3;E
+ME256;Mechanical Lab– I;ME;1;C
+ME300;Energy Engineering;ME;4;C
+ME455;DBMS;ME;3;E
+ME301;Design of Mechanical Drives;ME;4;C
+ME457;Air-conditioning Technology;ME;3;E
+ME302;Measurements, Instrumentation and Control;ME;3;C
+ME459;Advanced Welding Technology;ME;3;E
+ME460;Advanced Machine design;ME;3;E
+ME303;Metrology & CAD Lab;ME;1;C
+ME461;Production & Operation Management;ME;3;E
+ME350;Heat Transfer;ME;4;C
+ME462;Design of Solar Energy Systems;ME;3;E
+ME351;Machine Dynamics & Vibrations;ME;4;C
+ME463;Cryogenics;ME;3;E
+ME352;Machine Shop – I;ME;2;C
+ME464;Energy Audit and Management;ME;3;E
+ME405;Mechanical Lab – II;ME;1;C
+ME465;Experimental Stress Analysis;ME;3;E
+ME406;Machine Shop – II;ME;2;C
+ME466;Commercial and Industrial law;ME;3;E
+ME440;Practical Training / Educational Tour;ME;2;C
+ME490;Seminar;ME;1;C
+ME449;Major Project - I;ME;3;C
+ME499;Major Project – II;ME;7;C
+ME325;Mechatronics;ME;3;E
+ME326;Environmental Pollution Control;ME;3;E
+ME327;Fluid Power Control;ME;3;E
+ME368;Condition Monitoring and Predictive Maintenance;ME;3;E
+ME435;Nuclear Science & Engg.;ME;3;E
+ME436;Micro system Technology;ME;3;E
+ME437;Product Design and Manufacturing;ME;3;E
+ME438;Solar Energy;ME;3;E
+ME439;Energy Management;ME;3;E
+MT200;Mechanical Testing;MT;2;C
+MT499;Major Project – II;MT;6;C
+MT201;Met. Thermodynamics;MT;4;C
+MT202;Non Destructive Testing;MT;2;C
+MT250;Physical Metallurgy;MT;4;C
+MT251;Phase Diagrams;MT;4;C
+MT252;Principles of Extractive Metallurgy;MT;4;C
+MT253;X-rays and Electron Metallography;MT;4;C
+MT254;Polymer Science and Technology;MT;3;C
+MT299;Testing of Materials Lab;MT;2;C
+MT301;Process Engineering;MT;4;C
+MT302;Production of Iron and Ferro Alloys;MT;3;C
+MT303;Heat Treatment;MT;3;C
+MT348;Physical Metallurgy Lab;MT;2;C
+MT349;Extractive metallurgy Lab;MT;2;C
+MT350;Production of Steel;MT;3;C
+MT353;Joining of Metals;MT;3;C
+MT354;Ceramics and Refractories;MT;3;C
+MT390;Professional Practice;MT;1;C
+MT397;Metallographic Lab;MT;2;C
+MT398;Ceramics and Polymers Lab;MT;2;C
+MT399;Heat Treatment Lab;MT;2;C
+MT400;Phase Transformations;MT;4;C
+MT402;Foundry Technology;MT;3;C
+MT440;Practical Training/Educational Tour;MT;2;C
+MT448;Foundry Technology Lab;MT;2;C
+MT403;Corrosion Engineering;MT;3;C
+MT498;Metal Processing Lab;MT;2;C
+MT490;Seminar;MT;1;C
+MT449;Major Project – I;MT;4;C
+MT300;Electronic Properties of Material;MT;3;E
+MT305;Instrumental Methods of Analysis;MT;3;E
+MT351;Fatigue, Fracture and Creep;MT;3;E
+MT352;Powder Metallurgy;MT;3;E
+MT355;Aerospace Materials;MT;3;E
+MT401;Metal Forming;MT;3;E
+MT406;Extraction of Nonferrous Metals;MT;3;E
+MT407;Secondary Refining of Steels;MT;3;E
+MT450;Advanced Engineering Materials;MT;3;E
+MT451;Composite Materials;MT;3;E
+MT452;Advanced Welding Technology;MT;3;E
+MT453;Surface Engineering;MT;3;E
+MT454;Modelling and Simulation in Material Processes;MT;3;E
+MT405;Process Plant Materials;MT;3;E
+MT408;Nuclear Materials;MT;3;E
+MT409;Fracture of Engineering Materials;MT;3;E
+MT455;Smart Materials and Sensors;MT;3;E
+MN201;Development of Mineral Deposits;MN;4;C
+MN310;Maintenance and Reliability Engg;MN;3;E
+MN202;Drilling and Blasting Engineering;MN;4;C
+MN326;Financial Engineering;MN;3;E
+MN203;Mine Surveying-I;MN;4;C
+MN375;Tunneling Engg;MN;3;E
+MN204;Mine Surveying Lab-I;MN;2;C
+MN413;Numerical Modeling Techniques;MN;3;E
+MN252;Mine Environmental Engineering- I;MN;4;C
+MN425;Knowledge Management;MN;3;E
+MN254;Mine Environmental Engg. Lab-I;MN;2;C
+MN455;Technology Management;MN;3;E
+MN271;Mine Mechanization –I;MN;3;C
+MN272;Mine Surveying –II;MN;3;C
+MN273;Mine Surveying Lab-II;MN;2;C
+MN449;Programme Major Project-I;MN;4;C
+MN301;Surface Mining;MN;4;C
+MN499;Programme Major Project-II;MN;6;C
+MN302;Mine Environmental Engg.-II;MN;3;C
+MN303;Underground Coal Mining;MN;4;C
+MN306;Mine Environmental Engg. Lab-II;MN;2;C
+MN321;Mine Mechanization-II;MN;3;C
+MN324;Industrial Training –I;MN;1;C
+MN351;Underground Metal Mining;MN;4;C
+MN355;Industrial Training -II;MN;1;C
+MN371;Rock Mechanics;MN;3;C
+MN372;Rock Mechanics Lab;MN;2;C
+MN373;Mine Systems Engineering;MN;4;C
+MN390;Professional Practice;MN;1;C
+MN402;Mineral Processing;MN;3;C
+MN403;Ground Control Engineering;MN;4;C
+MN404;Mineral Processing Lab;MN;2;C
+MN421;Mine Economics;MN;3;C
+MN440;Industrial Training -III;MN;1;C
+MN451;Mine Legislation;MN;4;C
+MN452;Environmental Management in Mines;MN;3;C
+MN490;Seminar;MN;1;C
+MN274;Rock Excavation Engg;MN;3;E
+MN311;Noise Pollution and Control Engg;MN;3;E
+MN325;Rock Reinforcement Engg;MN;3;E
+MN360;Advanced Underground Coal Mining;MN;3;E
+MN361;Advanced Surface Mining Technology;MN;3;E
+MN411;Rock Fragmentation Engineering;MN;3;E
+MN412;Rock Slope Engineering;MN;3;E
+MN460;Coal Washing and Handling;MN;3;E
+MN461;Production Drilling for oil wells;MN;3;E
+MN462;Seabed Mining;MN;3;E
+MN463;Planning of Surface Mining Projects;MN;3;E
+MN464;Planning of Underground Coal Mining Projects;MN;3;E
+MN465;Planning of Underground Metal Mining Projects;MN;3;E
+MN468;Mine Health and Safety Engg;MN;3;E
+MN469;Computer Applications in Mining;MN;3;E

@@ -1,0 +1,133 @@
+10001,DVR,,Murthy,CH,M,Professor
+10002,G,,Srinikethan,CH,M,Professor
+10003,Gangamma,,S,CH,M,Professor
+10004,Gopal,,Mugeraya,CH,M,Professor
+10005,M,B,Saidu1a,CH,M,Professor
+10006,P,E,Jagadeeshbabu,CH,M,Professor
+10007,Prasanna,B,D,CH,M,Assistant Professor
+10008,Raj,Mohan,B,CH,M,Associate Professor
+10009,Regupathi,,I,CH,M,Assistant Professor
+10010,S,Jitendra,Pal,CH,M,Assistant Professor
+10011,Vidya,she1y,K,CH,M,Associate Professor
+10012,A,S,Balu,CV,M,Assistant Professor
+10013,A U,Ravi,Shankar,CV,M,Professor
+10014,Arun,Kumar,Thalla,CV,M,Assistant Professor
+10015,B,M,Sunil,CV,M,Assistant Professor
+10016,B,R,Jayalekshmi,CV,F,Associate Professor
+10017,Basavaraju,,Manu,CV,M,Assistant Professor
+10018,D,Venkat,Reddy,CV,M,Professor
+10019,Gangadhar,,Mahesh,CV,M,Assistant Professor
+10020,K,S Babu,Narayan,CV,M,Associate Professor
+10021,K,,Swaminathan,CV,M,Professor
+10022,K,N,Lokesh,CV,M,Professor
+10023,Ka1a,,Venkataramana,CV,M,Professor and HOD
+10024,Ma1ur,C,Narasimhan,CV,M,Professor
+10025,R,,Shivashankar,CV,M,Professor
+10026,Rajasekaran,,C,CV,M,Assistant Professor
+10027,S,,Shrihari,CV,M,Professor
+10028,Suresha,S,N,CV,M,Assistant Professor
+10029,Varghese,,George,CV,M,Professor
+10030,Alwyn,Roshan,Pais,CO,M,Assistant Professor
+10031,Annappa,,,CO,M,Assistant Professor
+10032,B,R,Chandravarkar,CO,M,Assistant Professor
+10033,Jeny,,Rajan,CO,M,Assistant Professor
+10034,K,C,Shet,CO,M,Professor
+10035,K,,Chandrasekaran,CO,M,Professor
+10036,K,Vinay,Kumar,CO,M,Associate Professor
+10037,Mahendra,Pratap,Singh,CO,M,Assistant Professor
+10038,Mohith,P,Tahiliani,CO,M,Assistant Professor
+10039,P,Santhi,Thilagam,CO,M,Associate Professor
+10040,Ravindranath,Chowdary,C,CO,M,Assistant Professor
+10041,Saumya,,Hegde,CO,F,Assistant Professor
+10042,Shashidhar,G,Koolagudi,CO,M,Assistant Professor
+10043,Swapan,,Bha1acharya,CO,M,Professor
+10044,Vani,,M,CO,F,Associate Professor
+10045,Ashvini,,Chaturvedi,EE,M,Associate Professor
+10046,Da1atraya,N,Gaonkar,EE,M,Assistant Professor
+10047,Debasisha,,Jena,EE,M,Assistant Professor
+10048,Girisha,Navada,H,EE,F,Assistant Professor
+10049,Jora,M,Gonda,EE,M,Associate Professor
+10050,Manjunatha,Sharma,K,EE,M,Associate Professor
+10051,Nagendrappa,,H,EE,M,Assistant Professor
+10052,Panduranga,Vi1al,K,EE,M,Professor
+10053,Parthiban,,P,EE,M,Assistant Professor
+10054,Punekar,G,S,EE,M,Associate Professor
+10055,Rajagopala,,K,EE,M,Associate Professor
+10056,Rao,I,R,EE,M,Assistant Professor
+10057,Shubhanga,K,N,EE,F,Associate Professor
+10058,Tukaram,,Moger,EE,M,Assistant Professor
+10059,Vinatha,,U,EE,F,Associate Professor
+10060,A,Joseph,Antony,EC,M,Assistant Professor
+10061,A,V,Narasimhadhan,EC,M,Assistant Professor
+10062,Aparna,,P,EC,F,Assistant Professor
+10063,B,,Nagavel,EC,M,Assistant Professor
+10064,Deepu,,Vijayasenan,EC,M,Assistant Professor
+10065,John,,D'Souza,EC,M,Professor
+10066,Kalpana,G,Bhat,EC,F,Assistant Professor
+10067,Krishnamoorthy,,K,EC,M,Assistant Professor
+10068,M,S,Bhat,EC,M,Professor
+10069,M,R,Arulalan,EC,M,Assistant Professor
+10070,Muralidhar,,Kulkarni,EC,M,Professor and HOD
+10071,Neelavar,Shekar Vi1al,Shet,EC,M,Associate Professor
+10072,Prashantha,Kumar,H,EC,M,Assistant Professor
+10073,Raghavendra,Bobbi,S,EC,M,Assistant Professor
+10074,Ramesh,Kini,M,EC,M,Associate Professor
+10075,Rekha,,S,EC,F,Assistant Professor
+10076,Sumam,David,S,EC,F,Professor
+10077,T,,Laxminidhi,EC,M,Associate Professor
+10078,U,,Sripati,EC,M,Professor
+10079,Ananthanarayana,V,S,IT,M,Professor and HOD
+10080,Biju,R,Mohan,IT,M,Assistant Professor
+10081,Dinesh,,Naik,IT,M,Assistant Professor
+10082,G,Ram Mohana,Reddy,IT,M,Professor
+10083,Geetha,,V,IT,F,Assistant Professor
+10084,Jaidhar,C,D,IT,M,Assistant Professor
+10085,Sowmya,Kamath,S,IT,F,Assistant Professor
+10086,Arun,,M,ME,M,Assistant Professor
+10087,Ajay,Kumar,Yadav,ME,M,Assistant Professor
+10088,Anish,,S,ME,M,Assistant Professor
+10089,Ashok,Bapu T,P,ME,M,Professor
+10090,D,,Chandrashekhar,ME,M,Assistant Professor
+10091,G,C Mohan,Kumar,ME,M,Professor
+10092,H,Shivananda,Nayak,ME,M,Assistant Professor
+10093,Suresha,Hebbar,Atawale,ME,M,Professor
+10094,Hemanth,,Kumar,ME,M,Assistant Professor
+10095,Jeyraj,,P,ME,M,Assistant Professor
+10096,K,V,Gangadharan,ME,M,Professor
+10097,N,,Gananasekaram,ME,M,Assistant Professor
+10098,Narendra,Nath,S,ME,M,Professor
+10099,Navin,,Karanath,ME,M,Assistant Professor
+10100,P,,Mohanan,ME,M,Professor
+10101,Prasad,,Krishna,ME,M,Professor and HOD
+10102,Ramesh,M,R,ME,M,Assistant Professor
+10103,Ravikiran,,Kadoli,ME,M,Professor
+10104,S,M,Murigendrappa,ME,M,Associate Professor
+10105,S,M,Kulkarni,ME,M,Professor
+10106,Sudhakar,C,Jambagi,ME,M,Assistant Professor
+10107,Satyabhama,,A,ME,F,Assistant Professor
+10108,Vasudev,,M,ME,M,Assistant Professor
+10109,Veershe1y,,Gumtapure,ME,M,Assistant Professor
+10110,Vijay,,Desai,ME,M,Profesor
+10111,Vijaykumar,,Hindasageri,ME,M,Assistant Professor
+10112,A,O,Sundarnathan,MT,M,Professor
+10113,Anandan,,Srinivasam,MT,M,Associate Professor
+10114,Jagannath,,Nayak,MT,M,Professor
+10115,K,N,Prabhu,MT,M,Professor and HOD
+10116,Mohammad,Rizwanur,Rahaman,MT,M,Assistant Professor
+10117,P,N,Reddy,MT,M,Associate Professor
+10118,Preetham,Kumar,GV,MT,M,Assistant Professor
+10119,Rajendra,,Udupa,MT,M,Professor
+10120,Ravishankar,K,S,MT,M,Assistant Professor
+10121,Shashi,Bhushan,Arya,MT,M,Assistant Professor
+10122,Sreeram,K,Kalpathy,MT,M,Assistant Professor
+10123,Subray,R,Hegde,MT,M,Assistant Professor
+10124,Udaya,,Bhat,MT,M,Associate Professor
+10125,Anup,Kumar,Tripathi,MI,M,Assistant Professor
+10126,Govinda,Raj,M,MI,M,Professor
+10127,Harsha,,Vardhan,MI,M,Associate Professor
+10128,Mangalpady,,Aruna,MI,M,Associate Professor
+10129,Murthy,S,N,MI,M,Professor
+10130,Ram,Chandar,Karra,MI,M,Assistant Professor
+10131,Ram,Prasad,Chowdhary,MI,M,Assistant Professor
+10132,Sastry,V,R,MI,M,Professor
+10133,Venkateshwara,Rao,Y,MI,M,Professor

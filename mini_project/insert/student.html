@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<body>
+<style>
+*:focus{outline:none;}
+body {font: 14px/21px "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif;}
+#myForm label {font-family:Georgia, Times, "Times New Roman", serif;}
+.required_notification {font-size: 11px;}
+
+#myForm ul {
+    width:750px;
+    list-style-type:none;
+    list-style-position:outside;
+    margin:0px;
+    padding:0px;
+}
+#myForm li{
+    padding:12px;
+    border-bottom:1px solid #eee;
+    position:relative;
+}
+
+#myForm li:first-child, #myForm li:last-child {
+    border-bottom:1px solid #777;
+}
+
+#myForm h2 {
+    margin:430px;
+	font-family:Georgia, Times, "Times New Roman", serif;
+    color:#d45210;
+	display: inline;
+}
+.required_notification {
+    color:#d45252;
+    margin:-20px 0 0 0;
+    display:inline;
+    float:right;
+}
+
+#myForm label {
+    width:150px;
+    margin-top: 3px;
+    display:inline-block;
+    padding:3px;
+}
+#myForm input {
+    height:20px;
+    width:220px;
+    padding:5px 8px;
+}
+#myForm select {
+    height:35px;
+    width:300px;
+    padding:5px 8px;
+}
+#myForm button {margin-left:500px;}
+
+#myForm input, #myForm textarea {
+    border:1px solid #aaa;
+    box-shadow: 0px 0px 3px #ccc, 0 10px 15px #eee inset;
+    border-radius:2px;
+}
+#myForm input:focus, #myForm textarea:focus {
+    background: #fff;
+    border:1px solid #555;
+    box-shadow: 0 0 3px #aaa;
+}
+/* Button Style */
+button.submit {
+    background-color: #68b12f;
+    background: -webkit-gradient(linear, left top, left bottom, from(#68b12f), to(#50911e));
+    background: -webkit-linear-gradient(top, #68b12f, #50911e);
+    background: -moz-linear-gradient(top, #68b12f, #50911e);
+    background: -ms-linear-gradient(top, #68b12f, #50911e);
+    background: -o-linear-gradient(top, #68b12f, #50911e);
+    background: linear-gradient(top, #68b12f, #50911e);
+    border: 1px solid #509111;
+    border-bottom: 1px solid #5b992b;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    box-shadow: inset 0 1px 0 0 #9fd574;
+    -webkit-box-shadow: 0 1px 0 0 #9fd574 inset ;
+    -moz-box-shadow: 0 1px 0 0 #9fd574 inset;
+    -ms-box-shadow: 0 1px 0 0 #9fd574 inset;
+    -o-box-shadow: 0 1px 0 0 #9fd574 inset;
+    color: white;
+    font-weight: bold;
+    padding: 6px 20px;
+    text-align: center;
+    text-shadow: 0 -1px 0 #396715;
+}
+button.submit:hover {
+    opacity:.85;
+    cursor: pointer;
+}
+button.submit:active {
+    border: 1px solid #20911e;
+    box-shadow: 0 0 10px 5px #356b0b inset;
+    -webkit-box-shadow:0 0 10px 5px #356b0b inset ;
+    -moz-box-shadow: 0 0 10px 5px #356b0b inset;
+    -ms-box-shadow: 0 0 10px 5px #356b0b inset;
+    -o-box-shadow: 0 0 10px 5px #356b0b inset;
+}
+
+#myForm input:required{
+    background: #fff url(redstar.png) no-repeat 98% center;
+   
+}
+#myForm select:required{
+    background: #fff url(redstar.png) no-repeat 70% center;
+   
+}
+
+#myForm input:focus:invalid, #myForm textarea:focus:invalid { 
+    background: #fff url(red.png) no-repeat 98% center;
+    box-shadow: 0 0 5px #d45252;
+    border-color: #b03535;
+}
+
+#myForm input:required:valid, #myForm textarea:required:valid { 
+    background: #fff url(gtick.png) no-repeat 98% center;
+    box-shadow: 0 0 5px #5cd053;
+    border-color: #28921f;
+}
+</style>
+<ul>
+
+<form id="myForm" action="insert.php" method="post">
+    <li>
+         <h2>Student Information<br></h2>
+         <span class="required_notification">* Denotes Required Field</span>
+    </li>
+
+<li><label id="r">Id:</label><input type="text" name="id" placeholder="111381" required pattern="[0-9]{6}"/>
+<label id="r">Roll No:</label><input type="text" name="roll" placeholder="42" required pattern="[0-9]{2}|[0-9]{3}"/><br></li>
+<li><label>Name</label><br>
+<label id="r">First:</label> <input type="text" name="firstname" required/>
+<label>Middle:</label> <input type="text" name="middlename" />
+<label>Last: </label><input type="text" name="lastname" /><br>
+</li>
+<li><label>DOB:</label> <input type="date" name="dob" />
+<label>Gender:</label> <select name="gender">
+<option>Male</option>
+<option>Female</option>
+</select><br>
+</li>
+<li><label>Contact Information</label><br>
+<label>Email:</label><br>
+<label>Primary:</label><input type="email" name="pemail" required/>
+<label>Secondary:</label><input type="email" name="semail" />
+<br>
+<label>Phone:</label><br><label>Primary:</label><input type="tel" name="pphone" required pattern="[0-9]{10}"/>
+<label>Secondary:</label><input type="tel" name="sphone" pattern="[0-9]{10}"/><br>
+</li>
+<li><label>Address</label><br>
+<label>Line 1:</label><input type="text" name="line1" required/>
+<label>Line 2:</label><input type="text" name="line2" /><br>
+<label>P.O.:</label><input type="text" name="po" />
+<label>City:</label><input type="text" name="city" />
+<label>Pin Code:</label><input type="integer" name="pin" /><br>
+<label>State:</label><input type="text" name="state" required/>
+<label>Country:</label><input type="text" name="country" required/><br>
+</li>
+<li><label>Parent's Information</label><br>
+<label>Father's Name</label><br>
+<label>First: </label><input type="text" name="firstnamef" required/>
+<label>Middle:</label> <input type="text" name="middlenamef" />
+<label>Last:</label> <input type="text" name="lastnamef" /><br>
+<label>Mother's Name</label><br>
+<label>First:</label> <input type="text" name="firstnamem" required/>
+<label>Middle:</label> <input type="text" name="middlenamem" />
+<label>Last:</label> <input type="text" name="lastnamem" /><br></li>
+
+<!--<li><label>Department</label><br>
+<label>Name:</label><br> <select name="dname" required>
+<option value="Applied Mechanics & Hydraulics">Applied Mechanics & Hydraulics</option>
+<option value="Chemical Engineering">Chemical Engineering</option>
+<option value="Chemistry">Chemistry</option>
+<option value="Civil Engineering">Civil Engineering</option>
+<option value="Computer Science">Computer Science</option>
+<option value="Electronics & Communication Engineering">Electronics & Communication Engineering</option>
+<option value="Electrical & Electronics Engineering">Electrical & Electronics Engineering</option>
+<option value="Humanities">Humanities</option>
+<option value="Information Technology">Information Technology</option>
+<option value="Mathematical And Computation">Mathematical And Computation</option>
+<option value="Mechanical Engineering">Mechanical Engineering</option>
+<option value="Metallurgical & Material Engineering">Metallurgical & Material Engineering</option>
+<option value="Mining Engineering">Mining Engineering</option>
+<option value="Physics">Physics</option>
+<select/>-->
+<label>Semester:</label> <input type="text" name="sem" placeholder="5" required pattern="[1-8]{1}"/><br>
+<label>Admission Year:</label> <input type="text" name="year" placeholder="2010" required pattern="201{1}[0-3]{1}"/><br>
+</li>
+<br><br>
+<button class="submit" type="submit">Submit Form</button>
+</form>
+</ul>
+</body>
+</html>

@@ -1,0 +1,144 @@
+<html>
+<head>
+<title>login</title>
+
+</head>
+<body>
+<style>
+*:focus{outline:none;}
+body {font: 14px/21px "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif;}
+#login label {font-family:Georgia, Times, "Times New Roman", serif;}
+.required_notification {font-size: 11px;}
+
+#login ul {
+    width:750px;
+    list-style-type:none;
+    list-style-position:outside;
+    margin:0px;
+    padding:0px;
+}
+#login li{
+    padding:12px;
+    border-bottom:1px solid #eee;
+    position:relative;
+}
+
+#login li:first-child, #login li:last-child {
+    border-bottom:1px solid #777;
+}
+
+#login h2 {
+    margin:500px;
+	font-family:Georgia, Times, "Times New Roman", serif;
+    color:#d45210;
+	display: inline;
+}
+.required_notification {
+    color:#d45252;
+    margin:-20px 0 0 0;
+    display:inline;
+    float:right;
+}
+
+#login label {
+    width:150px;
+    margin-top: 3px;
+    display:inline-block;
+    padding:3px;
+}
+#login input,#login select {
+    height:30px;
+    width:220px;
+    padding:5px 8px;
+}
+#login button {margin-left:500px;}
+
+#login input, #login textarea,#login select {
+    border:1px solid #aaa;
+    box-shadow: 0px 0px 3px #ccc, 0 10px 15px #eee inset;
+    border-radius:2px;
+}
+#login input:focus, #login textarea:focus {
+    background: #fff;
+    border:1px solid #555;
+    box-shadow: 0 0 3px #aaa;
+}
+/* Button Style */
+button.submit {
+    background-color: #68b12f;
+    background: -webkit-gradient(linear, left top, left bottom, from(#68b12f), to(#50911e));
+    background: -webkit-linear-gradient(top, #68b12f, #50911e);
+    background: -moz-linear-gradient(top, #68b12f, #50911e);
+    background: -ms-linear-gradient(top, #68b12f, #50911e);
+    background: -o-linear-gradient(top, #68b12f, #50911e);
+    background: linear-gradient(top, #68b12f, #50911e);
+    border: 1px solid #509111;
+    border-bottom: 1px solid #5b992b;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    box-shadow: inset 0 1px 0 0 #9fd574;
+    -webkit-box-shadow: 0 1px 0 0 #9fd574 inset ;
+    -moz-box-shadow: 0 1px 0 0 #9fd574 inset;
+    -ms-box-shadow: 0 1px 0 0 #9fd574 inset;
+    -o-box-shadow: 0 1px 0 0 #9fd574 inset;
+    color: white;
+    font-weight: bold;
+    padding: 6px 20px;
+    text-align: center;
+    text-shadow: 0 -1px 0 #396715;
+}
+button.submit:hover {
+    opacity:.85;
+    cursor: pointer;
+}
+button.submit:active {
+    border: 1px solid #20911e;
+    box-shadow: 0 0 10px 5px #356b0b inset;
+    -webkit-box-shadow:0 0 10px 5px #356b0b inset ;
+    -moz-box-shadow: 0 0 10px 5px #356b0b inset;
+    -ms-box-shadow: 0 0 10px 5px #356b0b inset;
+    -o-box-shadow: 0 0 10px 5px #356b0b inset;
+}
+
+
+#login input:required{
+    background: #fff url(redstar.png) no-repeat 98% center;
+   // box-shadow: 0 0 5px #5cd053;
+    //border-color: #28921f;
+}
+
+#login input:focus:invalid, #login textarea:focus:invalid { 
+    background: #fff url(red.png) no-repeat 98% center;
+    box-shadow: 0 0 5px #d45252;
+    border-color: #b03535;
+}
+
+#login input:required:valid, #login textarea:required:valid { 
+    background: #fff url(gtick.png) no-repeat 98% center;
+    box-shadow: 0 0 5px #5cd053;
+    border-color: #28921f;
+}
+</style>
+<ul>
+<form id="login" action="login.php" method="post">
+	<li>
+         <h2>LOGIN<br></h2>
+         <span class="required_notification">* Denotes Required Field</span>
+    </li>
+	<li>
+		<label id="r">ID :</label> 
+		<input type="text" name="sid" placeholder="123456/12345" required pattern="[0-9]{6}|[0-9]{5}"/><br>
+		</li>
+	<li>
+		<label id="r">Password:</label> 
+		<input type="password" name="password" required/><br>
+	
+	<button class="submit" type="submit">Login</button>
+	</form>
+<!--<button class="submit" type="submit" onclick="location.href='register.html'" >Register</button>-->
+</ul>
+</body>
+</html>

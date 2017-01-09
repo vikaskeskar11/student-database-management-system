@@ -1,0 +1,195 @@
+<html>
+<head>
+<title>teacher</title>
+</head>
+<body>
+<style>
+*:focus{outline:none;}
+body {font: 14px/21px "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif;}
+#teacher label {font-family:Georgia, Times, "Times New Roman", serif;}
+.required_notification {font-size: 11px;}
+
+#teacher ul {
+    width:750px;
+    list-style-type:none;
+    list-style-position:outside;
+    margin:0px;
+    padding:0px;
+}
+#teacher li {
+    padding:12px;
+    border-bottom:1px solid #eee;
+    position:relative;
+}
+
+#teacher li:first-child, #teacher li:last-child {
+    border-bottom:1px solid #777;
+}
+
+#teacher h2 {
+    margin:430px;
+	font-family:Georgia, Times, "Times New Roman", serif;
+    color:#d45210;
+	display: inline;
+}
+.required_notification {
+    color:#d45252;
+    margin:-20px 0 0 0;
+    display:inline;
+    float:right;
+}
+
+#teacher label {
+    width:150px;
+    margin-top: 3px;
+    display:inline-block;
+    padding:3px;
+}
+#teacher input,#teacher select {
+    height:30px;
+    width:220px;
+    padding:5px 8px;
+}
+#teacher button {margin-left:500px;}
+
+#teacher input, #teacher textarea ,#teacher select {
+    border:1px solid #aaa;
+    box-shadow: 0px 0px 3px #ccc, 0 10px 15px #eee inset;
+    border-radius:2px;
+}
+#teacher input:focus, #teacher textarea:focus {
+    background: #fff;
+    border:1px solid #555;
+    box-shadow: 0 0 3px #aaa;
+}
+/* Button Style */
+button.submit {
+    background-color: #68b12f;
+    background: -webkit-gradient(linear, left top, left bottom, from(#68b12f), to(#50911e));
+    background: -webkit-linear-gradient(top, #68b12f, #50911e);
+    background: -moz-linear-gradient(top, #68b12f, #50911e);
+    background: -ms-linear-gradient(top, #68b12f, #50911e);
+    background: -o-linear-gradient(top, #68b12f, #50911e);
+    background: linear-gradient(top, #68b12f, #50911e);
+    border: 1px solid #509111;
+    border-bottom: 1px solid #5b992b;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    box-shadow: inset 0 1px 0 0 #9fd574;
+    -webkit-box-shadow: 0 1px 0 0 #9fd574 inset ;
+    -moz-box-shadow: 0 1px 0 0 #9fd574 inset;
+    -ms-box-shadow: 0 1px 0 0 #9fd574 inset;
+    -o-box-shadow: 0 1px 0 0 #9fd574 inset;
+    color: white;
+    font-weight: bold;
+    padding: 6px 20px;
+    text-align: center;
+    text-shadow: 0 -1px 0 #396715;
+}
+button.submit:hover {
+    opacity:.85;
+    cursor: pointer;
+}
+button.submit:active {
+    border: 1px solid #20911e;
+    box-shadow: 0 0 10px 5px #356b0b inset;
+    -webkit-box-shadow:0 0 10px 5px #356b0b inset ;
+    -moz-box-shadow: 0 0 10px 5px #356b0b inset;
+    -ms-box-shadow: 0 0 10px 5px #356b0b inset;
+    -o-box-shadow: 0 0 10px 5px #356b0b inset;
+}
+#teacher input:required{
+    background: #fff url(redstar.png) no-repeat 98% center;
+   // box-shadow: 0 0 5px #5cd053;
+    //border-color: #28921f;
+}
+
+#teacher input:focus:invalid, #teacher textarea:focus:invalid { 
+    background: #fff url(red.png) no-repeat 98% center;
+    box-shadow: 0 0 5px #d45252;
+    border-color: #b03535;
+}
+
+#teacher input:required:valid, #teacher textarea:required:valid { 
+    background: #fff url(gtick.png) no-repeat 98% center;
+    box-shadow: 0 0 5px #5cd053;
+    border-color: #28921f;
+}
+</style>
+<ul>
+<form id="teacher" action="techer.php" method="post">
+<li>
+         <h2>Teacher Information<br></h2>
+         <span class="required_notification">* Denotes Required Field</span>
+</li>
+<li>
+	<label id="r">Teacher id:</label> <input type="text" name="tid" placeholder="tt1234" required pattern="[tt]{2}[0-9]{4}"/><br>
+</li>
+<li><label>Name</label><br>
+	<label id="r">First:</label>
+		<input type="text" name="firstname" required/>
+	<label>Middle:</label>
+		<input type="text" name="middlename" />
+	<label>Last: </label>
+		<input type="text" name="lastname" /><br>
+</li>
+<li>
+	<label>Contact Information</label><br>
+		<label>Email:</label><br>
+		<label>Primary:</label><input type="email" name="temail" required/>
+		<label>Secondary:</label><input type="email" name="semail" />
+		<br>
+	<label>Phone:</label><br><label>Primary:</label><input type="tel" name="pphone" required/>
+	<label>Secondary:</label><input type="tel" name="sphone" /><br>
+</li>
+<li>
+	<label id="r">gender:</label> 
+		<select name="gender">
+			<option value="empty1">-----select-----</option>
+			<option value="Male">Male</option>
+			<option value="female">Female</option>
+		<select />
+<br>
+</li>
+<li>
+	<label id="r">Department:</label>	
+		<select name="dname">
+			<option value="empty2">-----select-----</option>
+			<option value="am">Applied Mecanics & Hydrolics</option>
+			<option value="chem">Chemical Engineering</option>
+			<option value="cy">Chemistry</option>
+			<option value="civil">Civil Engineering</option>
+			<option value="comps">Computer Science</option>
+			<option value="ece">Electronics & Communication Engineering</option>
+			<option value="eee">Electrical & Electronics Engineering</option>
+			<option value="hu">Humanities</option>
+			<option value="it">Information Technology</option>
+			<option value="math">Mathematical And Computation</option>
+			<option value="mech">Mechanical Engineering</option>
+			<option value="meta">Metallurgical & Material Engineering</option>
+			<option value="mining">Mining Engineering</option>
+			<option value="ph">Physics</option>
+		<select/><br>
+</li>
+<!--
+Department id: <input type="text" name="dpttid"/><br>
+Designation: <input type="text" name="designation"/><br>
+-->
+<li>
+<label id="r">Designation:</label>
+	<select name="Designation">
+		<option value="empty3">-----select-----</option>
+		<option value="asstprof">Assistant Professor</option>
+		<option value="hod">Head of Department</option>
+		<option value="lect">Lecturer</option>
+		<option value="prof">Professor</option>
+	<select/><br>
+</li>	
+<button class="submit" type="submit"/>Submit Form</button>
+</form>
+</ul>
+</body>
+</html>
